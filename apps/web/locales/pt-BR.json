@@ -1221,6 +1221,7 @@
       "copy_survey_description": "Copiar essa pesquisa para outro ambiente",
       "copy_survey_error": "Falha ao copiar pesquisa",
       "copy_survey_link_to_clipboard": "Copiar link da pesquisa para a área de transferência",
+      "copy_survey_partially_success": "{success} pesquisas copiadas com sucesso, {error} falharam.",
       "copy_survey_success": "Pesquisa copiada com sucesso!",
       "delete_survey_and_responses_warning": "Você tem certeza de que quer deletar essa pesquisa e todas as suas respostas?",
       "edit": {

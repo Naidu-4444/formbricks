@@ -1221,6 +1221,7 @@
       "copy_survey_description": "Kopiere diese Umfrage in eine andere Umgebung",
       "copy_survey_error": "Kopieren der Umfrage fehlgeschlagen",
       "copy_survey_link_to_clipboard": "Umfragelink in die Zwischenablage kopieren",
+      "copy_survey_partially_success": "{success} Umfragen erfolgreich kopiert, {error} fehlgeschlagen.",
       "copy_survey_success": "Umfrage erfolgreich kopiert!",
       "delete_survey_and_responses_warning": "Bist Du sicher, dass Du diese Umfrage und alle ihre Antworten löschen möchtest?",
       "edit": {

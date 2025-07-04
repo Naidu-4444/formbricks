@@ -1221,6 +1221,7 @@
       "copy_survey_description": "將此問卷複製到另一個環境",
       "copy_survey_error": "無法複製問卷",
       "copy_survey_link_to_clipboard": "將問卷連結複製到剪貼簿",
+      "copy_survey_partially_success": "{success} 個問卷已成功複製，{error} 個失敗。",
       "copy_survey_success": "問卷已成功複製！",
       "delete_survey_and_responses_warning": "您確定要刪除此問卷及其所有回應嗎？",
       "edit": {

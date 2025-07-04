@@ -1221,6 +1221,7 @@
       "copy_survey_description": "Copier cette enquête dans un autre environnement",
       "copy_survey_error": "Échec de la copie du sondage",
       "copy_survey_link_to_clipboard": "Copier le lien du sondage dans le presse-papiers",
+      "copy_survey_partially_success": "{success} enquêtes copiées avec succès, {error} échouées.",
       "copy_survey_success": "Enquête copiée avec succès !",
       "delete_survey_and_responses_warning": "Êtes-vous sûr de vouloir supprimer cette enquête et toutes ses réponses?",
       "edit": {
